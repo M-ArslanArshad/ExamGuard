@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Flask
+instance/
+.webassets-cache
+flask_session/
+
+# Data files (keep structure, ignore content)
+data/responses.csv
+data/marksheet.csv
+data/marksheet.xlsx
+data/retake_tokens.json
+data/passwords/students.xlsx
+data/questions.xlsx
+data/images/*
+!data/images/.gitkeep
+data/*_backup_*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Secrets
+config_local.py
