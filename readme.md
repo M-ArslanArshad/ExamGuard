@@ -233,7 +233,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
 - Contact the department IT team
-- Email: [department-email@university.edu]
+
 
 ## ⚠️ Disclaimer
 
