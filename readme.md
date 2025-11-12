@@ -211,12 +211,12 @@ examguard/
 This project is maintained by the **Electrical Engineering Department** development team.
 
 - **Department**: Electrical Engineering
-- **Institution**: [Your University Name]
+- **Institution**: [University of Engineering and Technology,Lahore(New Campus)]
 - **Year**: 2025
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](license) file for details.
 
 ## 🤝 Contributing
 
